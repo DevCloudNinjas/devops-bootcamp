@@ -3,7 +3,7 @@ const rawQuizdown = `
 shuffleAnswers: true
 ---
 
-# Select all that are included in the Tao of Liatrio
+# Select all that are included in the Tao of DevCloud Ninjas
 
 - [x] Become an Ally for Our Customers
 - [x] Continuous Improvement

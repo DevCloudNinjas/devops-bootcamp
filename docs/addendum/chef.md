@@ -26,7 +26,7 @@ docs/6-infrastructure-configuration-management/6.3-chef.md:
 
 ## Overview
 
-This lab is designed to give you a base understanding of Chef and how it works. This tool is one of the most popular configuration managers and is used by many engineering teams to create better experiences for their customers and teams. Liatrio has some Chef Repos that you can see at [GitHub/Liatrio-chef.](https://github.com/liatrio-chef)
+This lab is designed to give you a base understanding of Chef and how it works. This tool is one of the most popular configuration managers and is used by many engineering teams to create better experiences for their customers and teams. DevCloud Ninjas has some Chef Repos that you can see at [GitHub/devcloudninjas-chef.](https://github.com/devcloudninjas-chef)
 
 ### Chef Basics
 
@@ -109,7 +109,7 @@ You can get most of this information on:
 - What is this tool?
 - How is it used in an enterprise?
 - Licensing costs
-- Liatrio's POV/uses for Chef
+- DevCloud Ninjas' POV/uses for Chef
 - Explain pros and cons
 - Create high level deck explaining Chef. Coordinate with your team to also have a technical demo
 - Once an engineer has completed this exercise work with them to run through steps 4-6

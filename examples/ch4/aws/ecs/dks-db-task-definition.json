@@ -101,7 +101,7 @@
         "operatingSystemFamily": "LINUX"
     },
     "registeredAt": "2024-10-29T17:44:06.202Z",
-    "registeredBy": "arn:aws:sts::183631309559:assumed-role/AWSReservedSSO_AWSAdministratorAccess_93465402f0d29076/joshua.burns@liatrio.com",
+    "registeredBy": "arn:aws:sts::183631309559:assumed-role/AWSReservedSSO_AWSAdministratorAccess_93465402f0d29076/gojo.satori@devcloudninjas.com",
     "enableFaultInjection": false,
     "tags": []
 }

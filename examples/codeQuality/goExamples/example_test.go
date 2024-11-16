@@ -6,9 +6,9 @@ import "testing"
 func TestIndexGitHubRepositoriesByOrg_basic(t *testing.T) {
     repos := []*GitHubRepository{
         {
-            Organization: "liatrio",
+            Organization: "devcloudninjas",
             Repository: "devops-bootcamp",
-            Url: "https://github.com/liatrio/devops-bootcamp",
+            Url: "https://github.com/devcloudninjas/devops-bootcamp",
             License: "MIT",
         },
     }
@@ -19,8 +19,8 @@ func TestIndexGitHubRepositoriesByOrg_basic(t *testing.T) {
         t.Errorf("expected result map to have one key, but it has %d keys", k)
     }
 
-    if n := len(result["liatrio"]); n != 1 {
-        t.Errorf("expected liatrio organization to have one repository, but it has %d", n)
+    if n := len(result["devcloudninjas"]); n != 1 {
+        t.Errorf("expected devcloudninjas organization to have one repository, but it has %d", n)
     }
 }
 
@@ -28,9 +28,9 @@ func TestIndexGitHubRepositoriesByOrg_basic(t *testing.T) {
 func TestIndexGitHubRepositoriesByOrg_multiple(t *testing.T) {
     repos := []*GitHubRepository{
         {
-            Organization: "liatrio",
+            Organization: "devcloudninjas",
             Repository: "devops-bootcamp",
-            Url: "https://github.com/liatrio/devops-bootcamp",
+            Url: "https://github.com/devcloudninjas/devops-bootcamp",
             License: "MIT",
         },
         {
@@ -40,9 +40,9 @@ func TestIndexGitHubRepositoriesByOrg_multiple(t *testing.T) {
             License: "Apache-2.0",
         },
         {
-            Organization: "liatrio",
+            Organization: "devcloudninjas",
             Repository: "lead-terraform",
-            Url: "https://github.com/liatrio/lead-terraform",
+            Url: "https://github.com/devcloudninjas/lead-terraform",
             License: "MIT",
         },
     }
@@ -53,8 +53,8 @@ func TestIndexGitHubRepositoriesByOrg_multiple(t *testing.T) {
         t.Errorf("expected result map to have two keys, but it has %d keys", k)
     }
 
-    if n := len(result["liatrio"]); n != 2 {
-        t.Errorf("expected liatrio organization to have two repositories, but it has %d", n)
+    if n := len(result["devcloudninjas"]); n != 2 {
+        t.Errorf("expected devcloudninjas organization to have two repositories, but it has %d", n)
     }
 
     if n := len(result["kubernetes"]); n != 1 {

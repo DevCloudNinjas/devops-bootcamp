@@ -2,7 +2,7 @@
 docs/1-introduction/1.1-devops-defined.md:
   category: Fundamentals
   estReadingMinutes: 30
-docs/1-introduction/1.2-liatrio-and-devops.md:
+docs/1-introduction/1.2-devcloudninjas-and-devops.md:
   category: Fundamentals
   estReadingMinutes: 5
 docs/1-introduction/1.2.1-dojo.md:

@@ -12,7 +12,7 @@
 
 - [1.0 - Introduction to DevOps](1-introduction/1.0-overview.md)
 - [1.1 - DevOps Defined](1-introduction/1.1-devops-defined.md)
-- [1.2 - Liatrio and DevOps](1-introduction/1.2-liatrio-and-devops.md)
+- [1.2 - DevCloudNinjas and DevOps](1-introduction/1.2-devcloudninjas-and-devops.md)
   - [1.2.1 Dojo](1-introduction/1.2.1-dojo.md)
 - [1.3 - The Basics](1-introduction/1.3-basics.md)
   - [1.3.1 - Unix Basics](1-introduction/1.3.1-unix.md)

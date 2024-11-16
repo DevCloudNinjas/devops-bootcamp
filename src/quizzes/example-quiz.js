@@ -73,7 +73,7 @@ permissions:
 
 - [x] NEXT!
 
-# Who's that Liatrian?
+# Who's that DevCloud Ninja?
 
 ![](https://i.ibb.co/CJM63dp/somebody.png)
 

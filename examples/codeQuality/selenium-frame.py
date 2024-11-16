@@ -1,7 +1,7 @@
 import unittest
 from selenium import webdriver
 
-class LiatrioBootcampLinkTest(unittest.TestCase):
+class DevcloudninjasBootcampLinkTest(unittest.TestCase):
     def setUp(self):
         # choose which webdriver to use
         self.driver = webdriver.Firefox()
@@ -9,7 +9,7 @@ class LiatrioBootcampLinkTest(unittest.TestCase):
 
     def test_bootcamp_link(self):
         driver = self.driver
-        driver.get("https://devops-bootcamp.liatr.io")
+        driver.get("https://bootcamp.devcloudninjas.com")
         # check we get expected page title
 
         # find the link to Introduction to DevOps section at the bottom of the page
@@ -20,7 +20,7 @@ class LiatrioBootcampLinkTest(unittest.TestCase):
         self.driver.quit()
 
 
-class LiatrioBootcampSidebarTest(unittest.TestCase):
+class DevcloudninjasBootcampSidebarTest(unittest.TestCase):
     def setUp(self):
         # choose which webdriver to use
         self.driver = webdriver.Firefox()
@@ -28,7 +28,7 @@ class LiatrioBootcampSidebarTest(unittest.TestCase):
 
     def test_bootcamp_sidebar(self):
         driver = self.driver
-        driver.get("https://devops-bootcamp.liatr.io")
+        driver.get("https://bootcamp.devcloudninjas.com")
         # check that the sidebar is shown (HINT: check html body attributes)
 
         # check that there is no CLOSE attribute on the body
