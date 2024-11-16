@@ -1,7 +1,7 @@
 {
   "name": "devops-bootcamp",
   "version": "1.0.0",
-  "description": "Liatrio DevOps Bootcamp",
+  "description": "DevCloud Ninjas Bootcamp",
   "main": "index.js",
   "directories": {
     "example": "examples"
@@ -18,18 +18,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liatrio/devops-bootcamp.git"
+    "url": "git+https://github.com/devcloudninjas/devops-bootcamp.git"
   },
   "keywords": [
     "devops",
     "bootcamp"
   ],
-  "author": "Liatrio",
+  "author": "DevCloud Ninjas",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/liatrio/devops-bootcamp/issues"
+    "url": "https://github.com/devcloudninjas/devops-bootcamp/issues"
   },
-  "homepage": "https://github.com/liatrio/devops-bootcamp#readme",
+  "homepage": "https://github.com/devcloudninjas/devops-bootcamp#readme",
   "dependencies": {
     "chart.js": "^4.3.0",
     "chartjs-chart-wordcloud": "^4.2.0",

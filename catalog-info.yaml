@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: devops-bootcamp
   annotations:
-    github.com/project-slug: liatrio/devops-bootcamp
+    github.com/project-slug: devcloudninjas/devops-bootcamp
 spec:
   type: documentation
   lifecycle: production
