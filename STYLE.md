@@ -1,4 +1,4 @@
-# Liatrio's DevOps Bootcamp
+# DevCloud Ninjas' DevOps Bootcamp
 
 ## Style Guide
 

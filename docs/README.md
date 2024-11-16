@@ -1293,9 +1293,9 @@ docs/9-platform-engineering/9.1.4-plugins.md:
 
 <center>
 
-  ![Liatrio Logomark](../img/favicon.svg ':size=150x150 :class=logo :alt= Liatrio image')
+  ![DevCloudNinjas Logomark](../img/favicon.svg ':size=150x150 :class=logo :alt= DevCloud Ninjas image')
 
-# Liatrio's DevOps Bootcamp
+# DevCloudNinjas' DevOps Bootcamp
 
 </center>
 
@@ -1307,7 +1307,7 @@ Welcome! You must be here because you're interested in DevOps. Don't worry, we'l
 
 ## Target Audience
 
-This DevOps Bootcamp is used as an introduction to DevOps for Liatrio's apprentices. Therefore, there are deliverables at the end of each section and knowledge checks sprinkled throughout that help guide the apprentices' training. However, anyone can go through the DevOps Bootcamp. Feel free to ignore the deliverables, knowledge checks, etc. This bootcamp also assumes the bootcamper is using a Mac for the deliverables.
+This DevOps Bootcamp is used as an introduction to DevOps for DevCloudNinjas' apprentices. Therefore, there are deliverables at the end of each section and knowledge checks sprinkled throughout that help guide the apprentices' training. However, anyone can go through the DevOps Bootcamp. Feel free to ignore the deliverables, knowledge checks, etc. This bootcamp also assumes the bootcamper is using a Mac for the deliverables.
 
 ## Disclaimer
 
